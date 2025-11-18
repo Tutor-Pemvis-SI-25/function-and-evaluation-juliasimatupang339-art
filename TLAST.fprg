@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="TLAST"/>
+        <attribute name="authors" value="julia"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-11-18 09:18:22 PM"/>
+        <attribute name="created" value="anVsaWE7SU5CT09LX1gyXzIwMjU7MjAyNS0xMS0xODswOTowMzo0NCBQTTsyNzk2"/>
+        <attribute name="edited" value="anVsaWE7SU5CT09LX1gyXzIwMjU7MjAyNS0xMS0xODswOToxODoyMiBQTTsyOzI5MDc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="TotalData" type="Integer" array="False" size=""/>
+            <declare name="command" type="String" array="False" size=""/>
+            <declare name="Deskripsi, Kode, Matkul, Dosen, Deadline, KetID, Status" type="String" array="True" size="10"/>
+        </body>
+    </function>
+</flowgorithm>
